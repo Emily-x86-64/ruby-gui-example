@@ -1,10 +1,12 @@
 GEM
   specs:
+    tk (0.4.0)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  tk
 
 BUNDLED WITH
    2.2.10
